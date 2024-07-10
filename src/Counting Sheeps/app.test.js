@@ -1,4 +1,5 @@
-import { countSheeps } from '/src/Counting Sheeps/appTest.js';
+import { countSheeps } from '../Counting Sheeps/app';
+import { describe, it, expect } from 'vitest';
 
 describe('countSheeps', () => {
     it('debería contar correctamente las ovejas en la lista', () => {

@@ -1,4 +1,22 @@
-# Instrucciones: 
+Requirements
+Nodejs
+npm
+DevDependencies
+Vitest
+Installation
+$ npm install
+Tests
+Run test without watch mode
+
+$ npm run test
+Run test with watch mode
+
+$ npm run test-w
+Run test using vitest command
+
+$ npx vitest
+
+Instrucciones: 
 
 Los "true" son ovejas, los "false" son lobos ... Cuantas ovejas hay? La función recibirá una lista de valores booleans.
 
